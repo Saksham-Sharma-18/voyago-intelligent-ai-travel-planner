@@ -418,8 +418,8 @@ Potential future improvements include:
 
 **Voyago Development Team**
 
-* [Your Name](YOUR_GITHUB_PROFILE_URL)
-* [Friend's Name](FRIEND_GITHUB_PROFILE_URL)
+* SAKSHAM SHARMA
+* MEGHNA SINGH
 
 ---
 
