@@ -358,7 +358,6 @@ GEMINI_API_KEY=your_gemini_api_key
 PEXELS_API_KEY=your_pexels_api_key
 ```
 
-> **Important:** Never commit API keys, passwords, or other secrets to GitHub.
 
 ---
 
@@ -373,26 +372,6 @@ Then open the application in your browser at:
 ```text
 http://localhost:3000
 ```
-
----
-
-# 📸 Screenshots
-
-Screenshots of the application can be added here to demonstrate the complete user journey.
-
-Suggested screenshots:
-
-* Landing / Welcome screen
-* Requirements screen
-* AI destination recommendations
-* Itinerary
-* Cost comparison
-* Safety assessment
-* Trip report
-* Booking screen
-* Confirmation screen
-
----
 
 # 🚀 Future Improvements
 
